@@ -1,20 +1,15 @@
 {
   "name": "graphlib",
   "version": "2.1.1",
-  "main": [
-    "dist/graphlib.core.js"
-  ],
+  "main": "index.js",
   "ignore": [
     ".*",
     "README.md",
     "CHANGELOG.md",
     "Makefile",
     "browser.js",
-    "dist/graphlib.js",
-    "dist/graphlib.min.js",
-    "index.js",
+    "dist/**",
     "karma*",
-    "lib/**",
     "package.json",
     "src/**",
     "test/**"
